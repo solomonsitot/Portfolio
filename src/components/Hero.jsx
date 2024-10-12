@@ -24,7 +24,7 @@ function Hero() {
           <h3 className="font-semibold text-xl md:text-2xl lg:text-3xl text-yellow-300 mb-6 animate-fadeIn animation-delay-400">
             Software Engineer
           </h3>
-          <p className="text-base md:text-lg lg:text-xl leading-relaxed max-w-xl mb-8 text-gray-300 animate-fadeIn animation-delay-600">
+          <p className="text-base md:text-lg lg:text-left leading-relaxed max-w-xl mb-8 text-gray-300 animate-fadeIn animation-delay-600">
             I'm a passionate Full Stack Developer specializing in building dynamic and responsive web applications. With a solid foundation in MERN stack development, I create user-centric solutions that balance aesthetics and functionality. Whether I'm crafting intuitive front-end experiences or developing robust back-end systems, my goal is to bring innovative digital solutions to life. Let’s collaborate to turn your vision into reality!
           </p>
 
