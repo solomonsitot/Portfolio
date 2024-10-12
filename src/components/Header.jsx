@@ -24,7 +24,7 @@ function Header() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           {/* Logo Section */}
           <div className="flex items-center">
-           <a href="#"> <h1 className="text-2xl font-bold">Logo</h1></a>
+           <a href="#"> <h1 className="text-2xl font-bold">Solo</h1></a>
           </div>
 
           {/* Desktop Navigation */}
