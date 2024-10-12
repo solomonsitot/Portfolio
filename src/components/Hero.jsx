@@ -25,10 +25,7 @@ function Hero() {
             Software Engineer
           </h3>
           <p className="text-base md:text-lg lg:text-xl leading-relaxed max-w-xl mb-8 text-gray-300 animate-fadeIn animation-delay-600">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus
-            rerum quidem alias animi nobis consectetur nam eligendi facere
-            expedita unde, dicta beatae hic laborum ratione ipsum suscipit quo
-            voluptas quos.
+            I'm a passionate Full Stack Developer specializing in building dynamic and responsive web applications. With a solid foundation in MERN stack development, I create user-centric solutions that balance aesthetics and functionality. Whether I'm crafting intuitive front-end experiences or developing robust back-end systems, my goal is to bring innovative digital solutions to life. Let’s collaborate to turn your vision into reality!
           </p>
 
           {/* Icons Section */}
